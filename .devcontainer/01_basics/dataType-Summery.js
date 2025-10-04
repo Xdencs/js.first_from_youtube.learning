@@ -37,4 +37,19 @@ const myFunction = function(){
     console.log("Hello world");
 }
 
-console.log( myObj);
+// console.log( myObj);
+
+
+//************************************************************************* */
+
+// Stack (Primitive), Heap (Non-Primitive)
+
+let myYoutubeName = "Youtube.Aashu.com"
+
+let anothername = myYoutubeName
+
+anothername = "JerryYoutubeMe"
+
+console.log(myYoutubeName);
+console.log(anothername);
+
